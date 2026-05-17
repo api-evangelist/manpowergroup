@@ -4,7 +4,7 @@ description: >-
   ManpowerGroup is a global workforce solutions company that connects talented people
   with innovative companies through its family of brands including Manpower, Experis,
   and Talent Solutions. No public developer APIs have been documented.
-type: Contract
+kind: contract
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 position: Consuming
