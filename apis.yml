@@ -5,7 +5,7 @@ description: >-
   with innovative companies through its family of brands including Manpower, Experis,
   and Talent Solutions. No public developer APIs have been documented.
 kind: contract
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 position: Consuming
 tags:
