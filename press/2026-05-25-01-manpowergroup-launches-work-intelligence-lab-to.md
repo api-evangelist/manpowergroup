@@ -1,7 +1,9 @@
 ---
 title: ManpowerGroup Launches "Work Intelligence" Lab to ...
 url: https://www.manpowergroup.com/en/news-releases/news/manpowergroup-launches-work-intelligence-lab-to-lead-ai-powered-workforce-transformation
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"ManpowerGroup" press release artificial intelligence'
 position: 1
 source: serpapi-google

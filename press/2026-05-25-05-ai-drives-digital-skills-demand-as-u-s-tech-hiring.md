@@ -1,7 +1,9 @@
 ---
 title: AI Drives Digital Skills Demand as U.S. Tech Hiring ...
 url: https://investor.manpowergroup.com/news-releases/news-release-details/ai-drives-digital-skills-demand-us-tech-hiring-outlook-shows
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"ManpowerGroup" press release artificial intelligence'
 position: 5
 source: serpapi-google

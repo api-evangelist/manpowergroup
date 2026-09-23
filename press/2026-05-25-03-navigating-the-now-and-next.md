@@ -1,7 +1,9 @@
 ---
 title: Navigating the Now and Next
 url: https://www.manpowergroup.com/en/news-releases/news/navigating-the-now-and-next-manpowergroup-advances-action-around-ai-and-workforce-readiness-at-the-world-economic-forum-annual-meeting-in-davos
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"ManpowerGroup" press release artificial intelligence'
 position: 3
 source: serpapi-google
